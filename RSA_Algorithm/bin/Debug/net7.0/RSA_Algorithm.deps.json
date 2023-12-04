@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RSA_Algorithm/1.0.0": {
+        "runtime": {
+          "RSA_Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSA_Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
